@@ -82,3 +82,19 @@ console.log("Wanted a Jetta, so I got one");
 
 cars++;
 console.log("Cars: ", cars);
+
+let catName = "Squiggle";
+let catAge = 3;
+console.log(catName);
+
+//concatenation with a comma for console (comma only works in the console.log)
+console.log("The name of the cat is:", catName);
+console.log("The age of the is:", catAge);
+
+//concatenation text with "+"
+
+let sentence = "This is a sentence about the cate named " + catName;
+
+sentence = "The cat name is " + catName + " and the cat is " + catAge + " years old"
+
+console.log(sentence);
