@@ -32,4 +32,4 @@ for(let i = 0; i < fruitName.length; i++){
 }
 
 
-console.log(arrayNum)
+console.log(arrayNum); // output ["b", "a", "n", "a", "n", "a"]
