@@ -33,3 +33,20 @@ for(let i = 0; i < fruitName.length; i++){
 
 
 console.log(arrayNum); // output ["b", "a", "n", "a", "n", "a"]
+
+// + operator can concatenate 2 strings to gether or
+
+//Example
+  let firstName = " Hamza";
+  let lastName = "Mohamed";
+//example
+  let fullName = firstName + " " + lastName;
+
+  console.log(fullName);
+// + add to number together
+//Example
+let num = 9;
+let num1 = 2;
+let total = num  + num1;
+
+console.log(total); // output is 11
