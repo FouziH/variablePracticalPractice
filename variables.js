@@ -50,3 +50,35 @@ let num1 = 2;
 let total = num  + num1;
 
 console.log(total); // output is 11
+
+let plants = 12 ;
+//plants  = plants + 3;
+
+console.log(plants);// another way to write this
+
+plants+=4;
+console.log(plants);// another way to write this
+
+plants++;
+console.log(plants);// another way to write this
+
+plants-=4;
+console.log(plants);// another way to write this
+
+
+let motorCycles = 9;
+let cars = 0
+console.log("had to put the soft tail in the garage");
+
+motorCycles--; //incrementing motorCycles by 1;
+
+console.log("Bikes available: ", motorCycles)
+console.log("I bought 2 lambos");
+cars += 2;
+
+console.log("Cars: ", cars);
+
+console.log("Wanted a Jetta, so I got one");
+
+cars++;
+console.log("Cars: ", cars);
